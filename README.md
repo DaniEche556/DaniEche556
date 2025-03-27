@@ -1,4 +1,4 @@
-! [mi foto de perfil] (https://github.com/DaniEche556/DaniEche556/blob/main/AAALAMP.jpg)
+![mi foto de perfil](https://github.com/DaniEche556/DaniEche556/blob/main/AAALAMP.jpg)
 ## 👋¡Buenas! Soy Daniel 
 
 👾 Estudiante de FP en Animación 2D y 3D

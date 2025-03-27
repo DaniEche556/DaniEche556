@@ -1,8 +1,11 @@
-## LARAMPSU 👋
+## 👋¡Buenas! Soy Daniel 
 
-<!--
+👾 Estudiante de FP en Animación 2D y 3D
+Desde 2022 hasta este año, he estado estudiando en el Centro Integrado de Formación Profesional Jose Luis Garci.
+Amante de las audiovisuales y con la energía suficiente para aprender cualquier cosa relacionada con esta.
+🔧 Tecnologías y Herramientas:
+
 **DaniEche556/DaniEche556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

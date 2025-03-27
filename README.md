@@ -4,17 +4,18 @@
 👾 Estudiante de FP en Animación 2D y 3D
 Desde 2022 hasta este año, he estado estudiando en el Centro Integrado de Formación Profesional Jose Luis Garci.
 Amante de las audiovisuales y con la energía suficiente para aprender cualquier cosa relacionada con esta.
-🔧 Tecnologías y Herramientas:
+⚡ Habilidades:
+- 👹 Desarrollo de proyectos multimedia interactivos
+- ☄️ Animación en 2D y 3D
+- 🔨 Modelado de Objetos y Personajes
 
-**DaniEche556/DaniEche556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+🔧 Herramientas:
+- 🗂️ Paquete de Adobe (Premiere Pro, Photoshop, After Effects)
+- 🔱 Blender y Autodesk Maya
+- 📚 Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Hobbies:
+- 🎥 Editar vídeos
+- 🗡️ Jugar videojuegos
+- 🎶 Escuchar todo tipo de música
+- 🍎 Hacer ejercicio
